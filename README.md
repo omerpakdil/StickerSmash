@@ -24,6 +24,9 @@
 - **Users can can save edited photo to their phone**
 
 
+![Screenshot 2023-09-23 145329](https://github.com/rihamnazeer/Sticker-Smash/assets/90144970/00212b45-d17f-4dd4-be3f-dea79475eb8b)
+
+
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
