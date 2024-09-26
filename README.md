@@ -49,11 +49,11 @@ Clone this repository to your desired folder:
 
 1. Download the **Zip** file or clone the repo with:
  ```bash
-git clone git@github.com:gjuliao/StickerSmash.git
+git clone https://github.com/omerpakdil/StickerSmash.git
 ```
 2. To access cloned directory run:
 ```bash
-cd StickersSmash
+cd StickerSmash
 ```
 
 ### Install
