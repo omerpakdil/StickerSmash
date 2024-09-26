@@ -23,7 +23,6 @@
 - **Users can select from a list of emojis to add on top of image**
 - **Users can can save edited photo to their phone**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
