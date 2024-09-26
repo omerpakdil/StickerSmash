@@ -25,10 +25,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 💻 Live Demo <a name="live-demo"></a>
-
-<img src="./assets/StickerSmash.gif" width="200" height="450" />
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
